@@ -27,9 +27,5 @@ namespace Hello_world_form
             MessageBox.Show("Ad Soyad \t:" + AdSoyadTxtBox.Text + "\n" + "Şifre \t:" + SifreTxtBox.Text);
         }
 
-        private void SifreTxtBox_TextChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }
